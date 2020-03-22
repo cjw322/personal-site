@@ -12,8 +12,16 @@
     <img class="footer-icon" src="media/icons/behance.png" alt="behance-icon">
   </a>
   <br>
-  Questions? Contact me at
+
+  Have a question? Contact me at
   <a href="mailto:cjw322@cornell.edu"><strong>cjw322@cornell.edu</strong></a>.
   <br>
+
+  <span class="footer-small">
+    Website created by me. Check out the repo
+    <a href="https://github.com/cjw322/personal-site" class="underline"><strong>here</strong></a>.
+    <br>
+  </span>
+
   &copy; 2019-<?php echo date("Y"); ?>
 </footer>

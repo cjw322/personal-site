@@ -118,6 +118,8 @@ footer {
 }
 
 .footer-icon { height: 20px; margin: 0 10px 5px; width: 20px; }
+.footer-small { font-size: .75rem; }
+.underline { text-decoration: underline;} 
 
 /************************ HOME PAGE ************************/
 

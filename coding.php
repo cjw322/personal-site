@@ -54,6 +54,21 @@ $curr_pg = "coding";
           </div>
         </a>
 
+        <a href="https://github.com/cjw322/personal-site">
+          <div class="code-box">
+            <h3 class="code-title">Personal Website</h3>
+            <h6 class="code-date">2018-Current</h6>
+            <p class="code-description">
+              This personal website is coded with HTML, CSS, and PHP. Although the
+              current dynamic version was created in 2020, I'd created earlier
+              static versions of the website back through 2018 (two of which
+              have their own GitHub repositories). This website is currently the
+              most advanced version, with PHP partials and an in-progress mySQL
+              database for storing portfolio information.
+            </p>
+          </div>
+        </a>
+
       </div>
 
 
