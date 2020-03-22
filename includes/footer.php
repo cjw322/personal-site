@@ -17,7 +17,7 @@
   <a href="mailto:cjw322@cornell.edu"><strong>cjw322@cornell.edu</strong></a>.
   <br>
 
-  <span class="footer-small">
+  <span id="footer-small">
     Website coded by me - check out the repo
     <a href="https://github.com/cjw322/personal-site" class="underline"><strong>here</strong></a>!
     <br>
