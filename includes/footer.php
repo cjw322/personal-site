@@ -18,8 +18,8 @@
   <br>
 
   <span class="footer-small">
-    Website created by me. Check out the repo
-    <a href="https://github.com/cjw322/personal-site" class="underline"><strong>here</strong></a>.
+    Website coded by me - check out the repo
+    <a href="https://github.com/cjw322/personal-site" class="underline"><strong>here</strong></a>!
     <br>
   </span>
 
