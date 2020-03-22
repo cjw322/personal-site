@@ -1,0 +1,359 @@
+/* poppins-regular - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/poppins-v9-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Poppins Regular'), local('Poppins-Regular'),
+       url('../fonts/poppins-v9-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/poppins-v9-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/poppins-v9-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/poppins-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/poppins-v9-latin-regular.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+
+/* lato-regular - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lato-v16-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Lato Regular'), local('Lato-Regular'),
+       url('../fonts/lato-v16-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/lato-v16-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/lato-v16-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/lato-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/lato-v16-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+/************************TAG SELECTORS************************/
+.commission-form { color: white; font-family: 'Lato', sans-serif; }
+
+/* html {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+button:focus{ outline-color: white }
+
+h1 {
+  display: inline-block;
+  font-family: 'Poppins', sans-serif;
+  font-size: 600%;
+  font-weight: bolder;
+}
+
+h3 {
+  display: inline-block;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 0;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+}
+
+
+/* Navbar */
+
+.navbar {
+  position: absolute;
+  margin-top: 2%;
+  right: 2%;
+
+}
+
+.nav-btn {
+  border: solid black 3px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5em;
+  margin-left: 10px;
+  position: relative;
+  padding: 0.5em 1em;
+}
+
+.nav-btn-dark {
+  background-color: black;
+  color: white;
+}
+.nav-btn-dark:hover {
+  background-color: white;
+  color: black;
+}
+
+.nav-btn-light {
+  background-color: white;
+  color: black;
+}
+.nav-btn-light:hover {
+  background-color: black;
+  color: white;
+}
+
+.curr-btn-dark {
+  background-color: black;
+  color: white;
+}
+.curr-btn-light {
+  background-color: white;
+  color: black;
+}
+/* footer */
+
+footer {
+  background-color: black;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  height: 100px;
+  line-height: 150%;
+  padding: 3%;
+  text-align: center;
+}
+
+.footer-icon { height: 20px; margin: 0 10px 5px; width: 20px; }
+
+/************************ HOME PAGE ************************/
+
+/* Source: (original work) Cora Wu  */
+/* .home_bg { background: url(photos/city-edit.jpg) no-repeat center center fixed; } */
+
+.home-top-div {
+  background-image: url(../media/art/digital/jpn.jpg);
+  /* background-size: 100% auto; */
+  background-size: cover;
+  /* background-color: black; */
+  height: 100vh;
+}
+
+.home-middle-div {
+  height: 50vh;
+  padding: 10% 1.5%;
+}
+
+.home-h1 { color: white; margin-top: 0; margin-bottom: 0; }
+.home-h3 { color: white;}
+
+.home-button {
+  background-color: rgb(34, 101, 133);
+  background-color: rgba(34, 69, 125, 0.4);
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2em;
+  margin-bottom: 5%;
+  margin-right: 5px;
+  position: relative;
+  padding: 0.5em 1em;
+}
+.home-button:hover {
+  background: white;
+  border-color: white;
+  border-style: solid;
+  border-width: medium;
+  color: black;
+  opacity: .8;
+}
+
+#artwork-msg {
+  color: white;
+  position: absolute;
+  bottom: 5px;
+  right: 20px;
+}
+
+.home-center {
+  background-color: rgb(34, 101, 133);
+  background-color: rgba(34, 101, 133, 0.3);
+  display: inline-block;
+  left: 7%;
+  margin-top: -250px;
+  /* Half the height */
+  padding: 10px;
+  position: absolute;
+  top: 60%;
+  /* width:480px; */
+}
+
+.about-pic-1 {
+  background-color: white;
+  border: black 5px solid;
+  display: inline-block;
+  margin: 0px 0px 100px 50px;
+  height: 250px;
+  padding: 10px;
+  position: absolute;
+  width: 250px;
+  z-index: 2;
+}
+
+.about-pic-2 {
+  border: black 4px solid;
+  display: inline-block;
+  margin: 100px 150px 100px 200px;
+  opacity: .8;
+  padding: 10px;
+  position: absolute;
+  height: 250px;
+  width: 250px;
+}
+
+#palm-src {
+  margin: 320px 0px 0px 130px;
+}
+
+.about-box {
+  background-clip: content-box;
+  background-color: #384871;
+  border: black 5px solid;
+  margin: 0px 0px 0px 550px;
+  padding: 10px;
+  position: absolute;
+  height: 50%;
+  width: 45%;
+}
+
+.about-box-title {
+  color: white;
+  font-size: 300%;
+  margin: 10% 10% 1%;
+  position: inline block;
+}
+
+.about-txt {
+  color: white;
+  font-size: 120%;
+  width: 75%;
+  height: 50%;
+  margin-left: 10%;
+}
+
+.src-link {
+  background-color: black;
+  border: solid white 2px;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  padding: 5px;
+  position: absolute;
+}
+
+.src-link:hover {
+  background-color: white;
+  border: solid black 2px;
+  color: black;
+  font-family: 'Lato', sans-serif;
+  padding: 5px;
+  position: absolute;
+  text-decoration: none;
+}
+
+label { color: black;}
+
+/************************ PORTFOLIO ************************/
+
+
+.pf-title { margin: 2%; }
+.pf-main { padding: 0 5%; }
+.pf-form {
+  width: 50%;
+  display: table-cell;
+}
+.apf-form {
+  width: 30%;
+  display: table-cell;
+}
+
+.pf-button-div {
+  display: table;
+  width: 85%;
+  margin: 2% auto;
+  text-align: center
+}
+
+.pf-btn {
+  /* display: none; */
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  padding: 1% 2%;
+  width: 100%;
+}
+
+
+.pf-btn-selected {
+  border: solid black medium;
+  background-color: black;
+  color: white;
+}
+
+.pf-btn-deselected {
+  border: solid black medium;
+  background-color: white;
+  color: black;
+}
+.pf-btn-deselected:hover {
+  border: solid black medium;
+  background-color: black;
+  color: white;
+}
+
+.pf-content {
+  padding: 2%;
+  vertical-align: top;
+  text-align: left;
+}
+.pf-content:hover { background-color: #ededed; }
+
+.content-main { text-align: center; }
+
+.pf-col {
+  display: inline-block;
+  height: auto;
+  padding: 0 2%;
+  vertical-align: top;
+  width: 27%;
+}
+.apf-col {
+  display: inline-block;
+  height: auto;
+  padding: 0 2%;
+  vertical-align: top;
+  width: 45%;
+}
+
+.pf-space { height: 30px; border: none;}
+
+.content-img { width: 100%; }
+
+.content-title {
+  color: black;
+  font-size: 150%;
+  font-weight: bold;
+  margin-top: 2%;
+  text-align: left;
+}
+
+.pf-divider {
+  background-color: black;
+  border: solid 3px black;
+  margin: 10% auto;
+  opacity: .7;
+  height: 5%;
+  width: 50%;
+}
+
+/************************ CODE ************************/
+
+.code-subtitle {margin: 0 0 2% 3%;}
+.code-box { border: solid black medium; color: black; padding: 5%; margin-bottom: 7%; }
+.code-box:hover { border: solid black medium; color: white; background-color: black; }
+.code-title { font-size: 150%; text-align: left; margin-bottom: 2%;}
+.code-date { font-size: 100%; font-family: "Poppins", sans-serif; margin: 0;}
+.code-description {  font-family: "Lato", sans-serif; text-align: left; }
