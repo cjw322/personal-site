@@ -19,17 +19,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
-<head>
-  <meta charset="utf-8">
-  <title>Cora Wu</title>
-  <link rel="stylesheet" href="../styles/main-style.css">
-  <link rel="icon" type="image/png" sizes="32x32" href="../media/icons/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="../media/icons/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="../media/icons/favicon-16x16.png">
-</head>
+<?php include("includes/head.php"); ?>
 
 <body>
-  <?php include("includes/navbar.php"); ?>
+  <?php
+  include("includes/navbar.php");
+  include("includes/top-btn.php");
+  ?>
+
   <!-- MAIN (Center website) -->
 
   <div class="pf-main">

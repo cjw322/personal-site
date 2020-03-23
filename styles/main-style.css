@@ -119,7 +119,7 @@ footer {
 
 .footer-icon { height: 20px; margin: 0 10px 5px; width: 20px; }
 #footer-small { font-size: .75rem; }
-.underline { text-decoration: underline;} 
+.underline { text-decoration: underline; } 
 
 /************************ HOME PAGE ************************/
 
@@ -127,7 +127,7 @@ footer {
 /* .home_bg { background: url(photos/city-edit.jpg) no-repeat center center fixed; } */
 
 .home-top-div {
-  background-image: url(../media/art/digital/jpn.jpg);
+  background-image: url('../media/art/digital/jpn.jpg');
   /* background-size: 100% auto; */
   background-size: cover;
   /* background-color: black; */
@@ -261,6 +261,24 @@ label { color: black;}
 
 /************************ PORTFOLIO ************************/
 
+#top-btn {
+  /* background-image: url('../media/icons/up-arrow.png'); */
+  border: 3px black solid;
+  border-radius: 50px;
+  background-color: white;
+  display: none;
+  height: 50px;
+  width: 50px;
+  font-size: 2rem;
+  position: fixed;
+  top: 50%;
+  right: 2%;
+  outline: none;
+}
+#top-btn:hover {
+  color: white;
+  background-color: black;
+}
 
 .pf-title { margin: 2%; }
 .pf-main { padding: 0 5%; }

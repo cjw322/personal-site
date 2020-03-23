@@ -1,3 +1,5 @@
+<!-- Source: Prof Kyle Harms -->
+
 <?php
 // check current php version to ensure it meets 2300's requirements
 function check_php_version()
