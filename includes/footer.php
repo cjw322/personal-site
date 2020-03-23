@@ -14,7 +14,7 @@
   <br>
 
   Have a question? Contact me at
-  <a href="mailto:cjw322@cornell.edu"><strong>cjw322@cornell.edu</strong></a>.
+  <a href="mailto:cjw322@cornell.edu" class="underline"><strong>cjw322@cornell.edu</strong></a>.
   <br>
 
   <span id="footer-small">

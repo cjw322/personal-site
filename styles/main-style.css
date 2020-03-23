@@ -84,12 +84,14 @@ p {
   color: white;
 }
 .nav-btn-dark:hover {
-  background-color: white;
+  /* background-color: white; */
+  background-color: rgba(255, 255, 255, .8);
   color: black;
 }
 
 .nav-btn-light {
-  background-color: white;
+  /* background-color: white; */
+  background-color: rgba(255, 255, 255, .8);
   color: black;
 }
 .nav-btn-light:hover {
@@ -102,7 +104,8 @@ p {
   color: white;
 }
 .curr-btn-light {
-  background-color: white;
+  /* background-color: white; */
+  background-color: rgba(255, 255, 255, .8);
   color: black;
 }
 /* footer */
@@ -117,9 +120,18 @@ footer {
   text-align: center;
 }
 
-.footer-icon { height: 20px; margin: 0 10px 5px; width: 20px; }
+.footer-icon { 
+  height: 20px; 
+  margin: 5px 10px 5px; 
+  width: 20px; 
+}
+.footer-icon:hover{
+  height: 25px;
+  width: 25px;
+  margin: 2.5px 7.5px;
+}
 #footer-small { font-size: .75rem; }
-.underline { text-decoration: underline; } 
+.underline:hover { text-decoration: underline; } 
 
 /************************ HOME PAGE ************************/
 

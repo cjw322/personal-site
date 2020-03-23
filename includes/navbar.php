@@ -4,10 +4,10 @@ $display_btns = [];
 
 $btn_shade = "light";
 $curr_shade = "dark";
-if ($curr_pg == "home" || $curr_pg == "resume") {
-  $btn_shade = "dark";
-  $curr_shade = "light";
-}
+// if ($curr_pg == "home" || $curr_pg == "resume") {
+//   $btn_shade = "dark";
+//   $curr_shade = "light";
+// }
 
 // foreach ($all_btns as $btn) {
 //   if ($btn != $curr_pg) {
