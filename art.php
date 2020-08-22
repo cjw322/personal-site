@@ -88,16 +88,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
             <h3 class="content-title">City Drawing</h3>
           </div>
 
-          <hr class="pf-divider">
-
-          <div class="pf-content">
-            <!-- Source: (original work) Cora Wu -->
-            <img class="content-img" src="media/art/digital/env.jpg" alt="env">
-            <h3 class="content-title">By the Bow Seat Ocean Awareness Competition
-              Submission
-            </h3>
-          </div>
-
 
         </div>
 
@@ -115,15 +105,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
             <!-- Source: (original work) Cora Wu -->
             <img class="content-img" src="media/art/digital/comic.jpg" alt="comic">
             <h3 class="content-title">Art IP Comic</h3>
-          </div>
-
-          <hr class="pf-divider">
-
-          <div class="pf-content">
-            <!-- Source: (original work) Cora Wu -->
-            <img class="content-img" src="media/art/digital/ynwa.gif" alt="ynwa">
-            <h3 class="content-title">You Never Walk Alone GIF
-            </h3>
           </div>
 
         </div>
@@ -147,14 +128,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
             <h3 class="content-title">Library</h3>
           </div>
 
-          <hr class="pf-divider">
 
-          <div class="pf-content">
-            <!-- Source: (original work) Cora Wu -->
-            <img class="content-img" src="media/art/watercolor/wwx.jpg" alt="wwx">
-            <h3 class="content-title">WWX Sketch
-            </h3>
-          </div>
 
 
         </div>
@@ -171,18 +145,20 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 
           <div class="pf-content">
             <!-- Source: (original work) Cora Wu -->
-            <img class="content-img" src="media/art/watercolor/bt.jpg" alt="bt">
-            <h3 class="content-title">Clothing Practice</h3>
+            <img class="content-img" src="media/art/watercolor/Beach.jpg" alt="beach">
+            <h3 class="content-title">Beach
+            </h3>
           </div>
 
           <hr class="pf-divider">
 
           <div class="pf-content">
             <!-- Source: (original work) Cora Wu -->
-            <img class="content-img" src="media/art/watercolor/Beach.jpg" alt="beach">
-            <h3 class="content-title">Beach
-            </h3>
+            <img class="content-img" src="media/art/watercolor/forest2.jpg" alt="forest2">
+            <h3 class="content-title">Forest Sketch w Gouache</h3>
           </div>
+
+
 
         </div>
 
@@ -208,26 +184,27 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 
       <div class="pf-content">
         <!-- Source: (original work) Cora Wu -->
-        <img class="content-img" src="media/art/acrylic/forest1.jpg" alt="forest1">
-        <h3 class="content-title">Misty Forest</h3>
+        <img class="content-img" src="media/art/acrylic/succulents.jpg" alt="succulents">
+        <h3 class="content-title">Succulents</h3>
       </div>
 
 
     </div>
 
     <div class="apf-col">
+
       <div class="pf-content">
         <!-- Source: (original work) Cora Wu -->
-        <img class="content-img" src="media/art/acrylic/forest2.jpg" alt="forest2">
-        <h3 class="content-title">Forest Sketch w Gouache</h3>
+        <img class="content-img" src="media/art/acrylic/spring.jpg" alt="spring">
+        <h3 class="content-title">Spring Day</h3>
       </div>
 
       <hr class="pf-divider">
 
       <div class="pf-content">
         <!-- Source: (original work) Cora Wu -->
-        <img class="content-img" src="media/art/acrylic/spring.jpg" alt="spring">
-        <h3 class="content-title">Spring Day</h3>
+        <img class="content-img" src="media/art/acrylic/suzhou.jpg" alt="suzhou">
+        <h3 class="content-title">Suzhou</h3>
       </div>
 
 

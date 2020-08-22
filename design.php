@@ -61,32 +61,16 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
           <hr class="pf-divider">
 
           <div class="pf-content">
-            <a href="https://github.com/CornellDataScience/IntSys-Seedling">
-              <!-- Source: (original work) Cora Wu -->
-              <img class="content-img" src="media/designs/seedlings.png" alt="Seedlings Icon">
-              <h3 class="content-title">Seedlings Classifier App Icon</h3>
-            </a></div>
-        </div>
-
-        <div class="pf-col">
-          <div class="pf-content">
             <a href="https://www.behance.net/gallery/85111617/Miscellaneous-Icons">
               <!-- Source: (original work) Cora Wu -->
               <img class="content-img scale" src="media/designs/kdphi.png" alt="aKDPhi Icon">
               <h3 class="content-title">Cornell aKDPhi Website Favicon</h3>
             </a></div>
 
-          <hr class="pf-divider">
-
-          <div class="pf-content">
-            <a href="https://www.behance.net/gallery/83038983/BUILTBYGIRLS-Phone-Case-Design-Competition">
-              <!-- Source: (original work) Cora Wu -->
-              <img class="content-img" src="media/designs/bbg1.png" alt="Phone Case">
-              <h3 class="content-title">#BUILTBYGIRLS Phone Case Contest Submission 1</h3>
-            </a></div>
         </div>
 
         <div class="pf-col">
+
           <div class="pf-content">
             <a href="https://www.behance.net/gallery/82228321/Alison-Cosmetics-(LogoCore-30-Day-Logo-Challenge-Day-1)">
               <!-- Source: (original work) Cora Wu -->
@@ -103,7 +87,18 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
               <h3 class="content-title">Miscellaneous Icons</h3>
             </a></div>
 
-          <hr class="pf-divider">
+        </div>
+
+        <div class="pf-col">
+
+          <div class="pf-content">
+            <a href="https://www.behance.net/gallery/83038983/BUILTBYGIRLS-Phone-Case-Design-Competition">
+              <!-- Source: (original work) Cora Wu -->
+              <img class="content-img" src="media/designs/bbg1.png" alt="Phone Case">
+              <h3 class="content-title">#BUILTBYGIRLS Phone Case Contest Submission 1</h3>
+            </a>
+          </div>
+
 
         </div>
       <?php } else { ?>
