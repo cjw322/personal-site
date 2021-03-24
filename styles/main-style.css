@@ -72,6 +72,7 @@ p {
 
 .nav-btn {
   border: solid black 3px;
+  border-radius: 30px;
   font-family: 'Poppins', sans-serif;
   font-size: 1.5em;
   margin-left: 10px;
@@ -157,9 +158,8 @@ footer {
 .home-button {
   background-color: rgb(34, 101, 133);
   background-color: rgba(34, 69, 125, 0.4);
-  border-style: solid;
-  border-color: white;
-  border-width: medium;
+  border: solid white medium;
+  border-radius: 25px;
   color: white;
   font-family: 'Poppins', sans-serif;
   font-size: 1.2em;
@@ -187,6 +187,7 @@ footer {
 .home-center {
   background-color: rgb(34, 101, 133);
   background-color: rgba(34, 101, 133, 0.3);
+  border-radius: 30px;
   display: inline-block;
   left: 7%;
   margin-top: -250px;
@@ -200,6 +201,7 @@ footer {
 .about-pic-1 {
   background-color: white;
   border: black 5px solid;
+  border-radius: 25px;
   display: inline-block;
   margin: 0px 0px 100px 50px;
   height: 250px;
@@ -211,8 +213,9 @@ footer {
 
 .about-pic-2 {
   border: black 4px solid;
+  border-radius: 25px;
   display: inline-block;
-  margin: 100px 150px 100px 200px;
+  margin: 90px 150px 100px 200px;
   opacity: .8;
   padding: 10px;
   position: absolute;
@@ -226,8 +229,8 @@ footer {
 
 .about-box {
   background-clip: content-box;
-  background-color: #384871;
   border: black 5px solid;
+  border-radius: 40px;
   margin: 0px 0px 0px 550px;
   padding: 10px;
   position: absolute;
@@ -236,14 +239,12 @@ footer {
 }
 
 .about-box-title {
-  color: white;
   font-size: 300%;
   margin: 10% 10% 1%;
   position: inline block;
 }
 
 .about-txt {
-  color: white;
   font-size: 120%;
   width: 75%;
   height: 50%;
@@ -252,6 +253,7 @@ footer {
 
 .src-link {
   background-color: black;
+  border-radius: 10px;
   border: solid white 2px;
   color: white;
   font-family: 'Lato', sans-serif;
@@ -312,10 +314,12 @@ label { color: black;}
 
 .pf-btn {
   /* display: none; */
+  border-radius: 20px;
   font-family: 'Poppins', sans-serif;
   font-size: 1.2rem;
   padding: 1% 2%;
-  width: 100%;
+  margin: 0 2%;
+  width: 95%;
 }
 
 
@@ -384,7 +388,12 @@ label { color: black;}
 /************************ CODE ************************/
 
 .code-subtitle {margin: 0 0 2% 3%;}
-.code-box { border: solid black medium; color: black; padding: 5%; margin-bottom: 7%; }
+.code-box { 
+  border: solid black medium; 
+  border-radius: 20px;
+  color: black; 
+  padding: 5%; 
+  margin-bottom: 7%; }
 .code-box:hover { border: solid black medium; color: white; background-color: black; }
 .code-title { font-size: 150%; text-align: left; margin-bottom: 2%;}
 .code-date { font-size: 100%; font-family: "Poppins", sans-serif; margin: 0;}

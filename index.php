@@ -14,7 +14,7 @@ $curr_pg = "home";
     <div class="home-center">
 
       <h1 class="home-h1">Cora Wu</h1><br>
-      <h3 class="home-h3">sophomore at Cornell University</h3><br>
+      <h3 class="home-h3">junior at Cornell University</h3><br>
 
       <button class="home-button" onclick="window.location.href='media/resume.pdf'">Resumé</button>
       <button class="home-button" onclick="window.location.href='https://github.com/cjw322'">GitHub</button>
@@ -31,7 +31,7 @@ $curr_pg = "home";
     <img src="media/photos/me.jpg" alt="Cora's photo" class="about-pic-1">
     <!-- Source: https://pixabay.com/photos/palm-trees-upward-tropical-blue-sky-1209185/ -->
     <a href="https://pixabay.com/photos/palm-trees-upward-tropical-blue-sky-1209185/" class="src-link" id="palm-src">img src</a>
-    <img src="media/photos/palm-trees.jpg" alt="descanso" class="about-pic-2">
+    <img src="media/photos/palm-trees.jpg" alt="palm-trees" class="about-pic-2">
 
     <div class="about-box" id="abt-box">
       <h3 class="about-box-title">Hello! I'm Cora.</h3>

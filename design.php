@@ -56,7 +56,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
               <!-- Source: (original work) Cora Wu -->
               <img class="content-img" src="media/designs/bbg2.png" alt="Phone Case">
               <h3 class="content-title">#BUILTBYGIRLS Phone Case Contest Submission 2</h3>
-            </a></div>
+            </a>
+          </div>
 
           <hr class="pf-divider">
 
@@ -65,7 +66,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
               <!-- Source: (original work) Cora Wu -->
               <img class="content-img scale" src="media/designs/kdphi.png" alt="aKDPhi Icon">
               <h3 class="content-title">Cornell aKDPhi Website Favicon</h3>
-            </a></div>
+            </a>
+          </div>
 
         </div>
 
@@ -76,7 +78,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
               <!-- Source: (original work) Cora Wu -->
               <img class="content-img" src="media/designs/cosmetic.png" alt="Alison Cosmetics Logo">
               <h3 class="content-title">Alison Cosmetics Logo (30 Day Logo Challenge, Day 1)</h3>
-            </a></div>
+            </a>
+          </div>
 
           <hr class="pf-divider">
 
@@ -85,7 +88,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
               <!-- Source: (original work) Cora Wu -->
               <img class="content-img scale" src="media/designs/mail.png" alt="Email Icon">
               <h3 class="content-title">Miscellaneous Icons</h3>
-            </a></div>
+            </a>
+          </div>
 
         </div>
 
@@ -103,13 +107,25 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
         </div>
       <?php } else { ?>
         <!-- UI/UX----------------------------------------------------------- -->
+
+        <div class="pf-col">
+          <div class="pf-content">
+            <a href="https://fairmandering.org/index.html">
+              <!-- Source: (original work) Cora Wu -->
+              <img class="content-img" src="media/designs/fairmandering.png" alt="fairmandering">
+              <h3 class="content-title">Fairmandering Website</h3>
+            </a>
+          </div>
+        </div>
+
         <div class="pf-col">
           <div class="pf-content">
             <a href="https://www.behance.net/gallery/83041577/Daily-UI-01-Sign-up-Page">
               <!-- Source: (original work) Cora Wu -->
               <img class="content-img" src="media/designs/brh.png" alt="BRH Login">
               <h3 class="content-title">Daily UI #01: Sign-up Page (BigRed//Hacks)</h3>
-            </a></div>
+            </a>
+          </div>
         </div>
 
         <div class="pf-col">
@@ -118,7 +134,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
               <!-- Source: (original work) Cora Wu -->
               <img class="content-img" src="media/designs/calculator.png" alt="Calculator">
               <h3 class="content-title">Daily UI #04: Calculator</h3>
-            </a></div>
+            </a>
+          </div>
 
         </div>
 

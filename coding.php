@@ -22,38 +22,47 @@ $curr_pg = "coding";
 
     <div class="content-main">
       <div class="apf-col">
-        <a href="https://github.com/bayoumi17m/oh-online">
+        <a href="https://fairmandering.org/index.html">
           <div class="code-box">
-            <h3 class="code-title">Ithaqueue</h3>
-            <h6 class="code-date">2020</h6>
+            <h3 class="code-title">Fairmandering</h3>
+            <h6 class="code-date">2020-Current</h6>
             <p class="code-description">
-              At the start of the pandemic, I joined a small team of Cornell students
-              working on the web app Ithaqueue, which was designed to make virtual
-              office hours more manageable by keeping track of waitlists for each class.
-              A week in, I was appointed backend development lead. During this project,
-              I learned how to use Flask, GraphQL, and SQLAlchemy in order to put
-              together the backend of our web application, as well as
-              gained experience with deployment tools such as Docker.
+              In my sophomore year, I joined the organization Fairmandering, which
+              seeks to combat the political malpractice of gerrymandering, where
+              voting districts are drawn unfairly to favor one political party
+              over another. I built their website from scratch using HTML, CSS,
+              and JavaScript, and although that code repo is private, you can view
+              the website I built by clicking this box!
             </p>
           </div>
         </a>
 
-
-        <a href="https://github.coecis.cornell.edu/al2248/3110-project">
+        <a href="https://github.com/jek343/StanfordMedical">
           <div class="code-box">
-            <h3 class="code-title">Command Line Text Editor</h3>
-            <h6 class="code-date">2019</h6>
+            <h3 class="code-title">Cornell-Stanford Medical Research</h3>
+            <h6 class="code-date">2019-2020</h6>
             <p class="code-description">
-              For the final project in CS 3110 (Functional Programming & Data Structures),
-              I worked with a team of 3 other members to develop a text editor that
-              runs on the command line, similar to GNU nano. The program was written
-              entirely in OCaml and shell scripts. Besides opening, writing, and
-              saving text files, other features of our text editor included
-              word, line, and character count; searching and replacing of text; opening
-              multiple windows; and splitting the current window into several frames,
-              allowing users to edit multiple files simultaneously. When working on
-              the same file in two frames, edits would be updated in real time.
-              (GitHub repo linked, but it's private to Cornell GitHub users.)
+              I conducted research with a Cornell Data Science teammate
+              under Stanford professor David Scheinker to find and
+              predict trends between yearly county health data and mortality rates
+              using ML models (e.g. linear & logistic regression, random forests).
+              Throughout the project, we cleaned large amounts of data, reformatted
+              them into pandas datasets, ran models on the datasets to
+              predict mortality rates for given combinations of county health data,
+              and generated visualizations of our results.
+            </p>
+          </div>
+        </a>
+
+        <a href="https://github.com/cjw322/personal-site">
+          <div class="code-box">
+            <h3 class="code-title">Personal Website</h3>
+            <h6 class="code-date">2018-Current</h6>
+            <p class="code-description">
+              This personal website is coded with HTML, CSS, and PHP. Although the
+              current dynamic version was created in 2020, I'd created earlier
+              static versions of the website back through 2018 (two of which
+              have their own GitHub repositories).
             </p>
           </div>
         </a>
@@ -77,33 +86,37 @@ $curr_pg = "coding";
 
       <div class="apf-col">
 
-        <a href="https://github.com/jek343/StanfordMedical">
+        <a href="https://github.com/bayoumi17m/oh-online">
           <div class="code-box">
-            <h3 class="code-title">Cornell-Stanford Medical Research</h3>
-            <h6 class="code-date">2019-2020</h6>
+            <h3 class="code-title">Ithaqueue</h3>
+            <h6 class="code-date">2020</h6>
             <p class="code-description">
-              I conducted research with a Cornell Data Science teammate
-              under Stanford professor David Scheinker to find and
-              predict trends between yearly county health data and mortality rates
-              using ML models (e.g. linear & logistic regression, random forests).
-              Throughout the project, we cleaned large amounts of data, reformatted
-              them into pandas datasets, ran models on the datasets to
-              predict mortality rates for given combinations of county health data,
-              and generated visualizations of our results.
+              At the start of the pandemic, I joined a small team of Cornell students
+              working on the web app Ithaqueue, which was designed to make virtual
+              office hours more manageable by keeping track of waitlists for each class.
+              A week in, I was appointed backend development lead. During this project,
+              I learned how to use Flask, GraphQL, and SQLAlchemy in order to put
+              together the backend of our web application, as well as
+              gained experience with deployment tools such as Docker.
             </p>
           </div>
         </a>
 
-
-        <a href="https://github.com/cjw322/personal-site">
+        <a href="https://github.coecis.cornell.edu/al2248/3110-project">
           <div class="code-box">
-            <h3 class="code-title">Personal Website</h3>
-            <h6 class="code-date">2018-Current</h6>
+            <h3 class="code-title">Command Line Text Editor</h3>
+            <h6 class="code-date">2019</h6>
             <p class="code-description">
-              This personal website is coded with HTML, CSS, and PHP. Although the
-              current dynamic version was created in 2020, I'd created earlier
-              static versions of the website back through 2018 (two of which
-              have their own GitHub repositories).
+              For the final project in CS 3110 (Functional Programming & Data Structures),
+              I worked with a team of 3 other members to develop a text editor that
+              runs on the command line, similar to GNU nano. The program was written
+              entirely in OCaml and shell scripts. Besides opening, writing, and
+              saving text files, other features of our text editor included
+              word, line, and character count; searching and replacing of text; opening
+              multiple windows; and splitting the current window into several frames,
+              allowing users to edit multiple files simultaneously. When working on
+              the same file in two frames, edits would be updated in real time.
+              (GitHub repo linked, but it's private to Cornell GitHub users.)
             </p>
           </div>
         </a>
