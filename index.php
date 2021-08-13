@@ -14,13 +14,13 @@ $curr_pg = "home";
     <div class="home-center">
 
       <h1 class="home-h1">Cora Wu</h1><br>
-      <h3 class="home-h3">junior at Cornell University</h3><br>
+      <h3 class="home-h3">senior at Cornell University</h3><br>
 
-      <button class="home-button" onclick="window.location.href='media/resume.pdf'">Resumé</button>
-      <button class="home-button" onclick="window.location.href='https://github.com/cjw322'">GitHub</button>
+      <button class="home-button" onclick="window.open('media/resume.pdf','_blank')">Resumé</button>
+      <button class="home-button" onclick="window.open('https://github.com/cjw322','_blank')">GitHub</button>
       <!-- <a href="coding/coding.html"> -->
-      <button class="home-button" onclick="window.location.href='https://www.behance.net/corawu'">Bēhance</button>
-      <button class="home-button" onclick="window.location.href='https://www.linkedin.com/in/cora-wu-774a7016b/'">LinkedIn</button>
+      <button class="home-button" onclick="window.open('https://www.behance.net/corawu','_blank')">Bēhance</button>
+      <button class="home-button" onclick="window.open('https://www.linkedin.com/in/cora-wu-774a7016b/','_blank')">LinkedIn</button>
 
     </div>
     <p id="artwork-msg">original artwork by me</p>

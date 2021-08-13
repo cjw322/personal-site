@@ -18,24 +18,29 @@ $curr_pg = "coding";
 
     <h1 class="pf-title">Coding</h1><br>
 
-    <h3 class="code-subtitle">Press any of the project boxes to open their GitHub repo!</h3>
+    <h3 class="code-subtitle">Press any of the project boxes to open them or their GitHub repo!</h3>
 
     <div class="content-main">
       <div class="apf-col">
-        <a href="https://fairmandering.org/index.html">
+
+        <a href="https://clubhub-4300.herokuapp.com/" target="_blank">
           <div class="code-box">
-            <h3 class="code-title">Fairmandering</h3>
-            <h6 class="code-date">2020-Current</h6>
+            <h3 class="code-title">ClubHub</h3>
+            <h6 class="code-date">2021</h6>
             <p class="code-description">
-              In my sophomore year, I joined the organization Fairmandering, which
-              seeks to combat the political malpractice of gerrymandering, where
-              voting districts are drawn unfairly to favor one political party
-              over another. I built their website from scratch using HTML, CSS,
-              and JavaScript, and although that code repo is private, you can view
-              the website I built by clicking this box!
+              For the final project of CS 4300: Language and Information, an Information
+              Retrieval course, I worked with a team of 3 other developers to create a website that
+              recommends movies based on Cornell clubs. <br>
+              To get a recommendation, you don't have to know any Cornell clubs - just start typing
+              two letters in the search bar to get auto-populated search options scraped from
+              Cornell's CampusGroups page. <br>
+              I worked on the cosine similarity scoring, stemming the query terms,
+              coding the frontend in React, and creating a k-nearest neighbors model to find
+              related clubs from the query to provide additional recommendations! <br>
             </p>
           </div>
         </a>
+
 
         <a href="https://github.com/jek343/StanfordMedical">
           <div class="code-box">
@@ -61,8 +66,7 @@ $curr_pg = "coding";
             <p class="code-description">
               This personal website is coded with HTML, CSS, and PHP. Although the
               current dynamic version was created in 2020, I'd created earlier
-              static versions of the website back through 2018 (two of which
-              have their own GitHub repositories).
+              static versions of the website back through 2018.
             </p>
           </div>
         </a>
@@ -85,6 +89,20 @@ $curr_pg = "coding";
 
 
       <div class="apf-col">
+
+        <a href="https://fairmandering.org/index.html">
+          <div class="code-box">
+            <h3 class="code-title">Fairmandering</h3>
+            <h6 class="code-date">2020</h6>
+            <p class="code-description">
+              In my sophomore year, I joined the nonpartisan organization Fairmandering,
+              which seeks to combat the political malpractice of gerrymandering, where
+              voting districts are drawn unfairly to favor one political party
+              over another. I built their website from scratch using HTML, CSS,
+              and JavaScript.
+            </p>
+          </div>
+        </a>
 
         <a href="https://github.com/bayoumi17m/oh-online">
           <div class="code-box">
