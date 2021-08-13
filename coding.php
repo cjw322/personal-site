@@ -42,7 +42,7 @@ $curr_pg = "coding";
         </a>
 
 
-        <a href="https://github.com/jek343/StanfordMedical">
+        <a href="https://github.com/jek343/StanfordMedical" target="_blank">
           <div class="code-box">
             <h3 class="code-title">Cornell-Stanford Medical Research</h3>
             <h6 class="code-date">2019-2020</h6>
@@ -59,7 +59,7 @@ $curr_pg = "coding";
           </div>
         </a>
 
-        <a href="https://github.com/cjw322/personal-site">
+        <a href="https://github.com/cjw322/personal-site" target="_blank">
           <div class="code-box">
             <h3 class="code-title">Personal Website</h3>
             <h6 class="code-date">2018-Current</h6>
@@ -71,7 +71,7 @@ $curr_pg = "coding";
           </div>
         </a>
 
-        <a href="https://github.com/cjw322/CornellCreatives">
+        <a href="https://github.com/cjw322/CornellCreatives" target="_blank">
           <div class="code-box">
             <h3 class="code-title">Cornell Creatives iOS Application</h3>
             <h6 class="code-date">2018</h6>
@@ -90,7 +90,7 @@ $curr_pg = "coding";
 
       <div class="apf-col">
 
-        <a href="https://fairmandering.org/index.html">
+        <a href="https://fairmandering.org/index.html" target="_blank">
           <div class="code-box">
             <h3 class="code-title">Fairmandering</h3>
             <h6 class="code-date">2020</h6>
@@ -104,7 +104,7 @@ $curr_pg = "coding";
           </div>
         </a>
 
-        <a href="https://github.com/bayoumi17m/oh-online">
+        <a href="https://github.com/bayoumi17m/oh-online" target="_blank">
           <div class="code-box">
             <h3 class="code-title">Ithaqueue</h3>
             <h6 class="code-date">2020</h6>
@@ -120,7 +120,7 @@ $curr_pg = "coding";
           </div>
         </a>
 
-        <a href="https://github.coecis.cornell.edu/al2248/3110-project">
+        <a href="https://github.coecis.cornell.edu/al2248/3110-project" target="_blank">
           <div class="code-box">
             <h3 class="code-title">Command Line Text Editor</h3>
             <h6 class="code-date">2019</h6>
@@ -139,7 +139,7 @@ $curr_pg = "coding";
           </div>
         </a>
 
-        <a href="https://github.com/CornellDataScience/IntSys-Seedling">
+        <a href="https://github.com/CornellDataScience/IntSys-Seedling" target="_blank">
           <div class="code-box">
             <h3 class="code-title">Seedlings Classifier</h3>
             <h6 class="code-date">2018</h6>
