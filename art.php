@@ -166,14 +166,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 
       <div class="pf-content">
         <!-- Source: (original work) Cora Wu -->
-        <img class="content-img" src="media/art/acrylic/reflections.jpg" alt="reflections">
+        <img class="content-img" src="media/art/acrylic/suzhou.jpg" alt="suzhou">
       </div>
 
       <hr class="pf-divider">
 
       <div class="pf-content">
         <!-- Source: (original work) Cora Wu -->
-        <img class="content-img" src="media/art/acrylic/succulents.jpg" alt="succulents">
+        <img class="content-img" src="media/art/acrylic/flowers.png" alt="flowers">
       </div>
 
 
@@ -190,7 +190,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 
       <div class="pf-content">
         <!-- Source: (original work) Cora Wu -->
-        <img class="content-img" src="media/art/acrylic/suzhou.jpg" alt="suzhou">
+        <img class="content-img" src="media/art/acrylic/succulents.jpg" alt="succulents">
+      </div>
+
+      <hr class="pf-divider">
+
+      <div class="pf-content">
+        <!-- Source: (original work) Cora Wu -->
+        <img class="content-img" src="media/art/acrylic/reflections.jpg" alt="reflections">
       </div>
 
 

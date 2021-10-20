@@ -35,10 +35,10 @@ $curr_pg = "home";
 
     <div class="about-box" id="abt-box">
       <h3 class="about-box-title">Hello! I'm Cora.</h3>
-      <p class="about-txt">I'm a designer, developer, and artist from sunny California.
-        Now, however, I'm across the United States studying Information Science and
-        Computer Science at Cornell University in New York. Apart from coding and
-        drawing, I like writing and watching cooking videos.
+      <p class="about-txt">I'm currently a senior at Cornell University studying
+        Computing and Information Sciences. My background is in software and data
+        engineering, but I also enjoy design and art as well. <br> <br>
+        Take a look around this site to see some of my work!
       </p>
     </div>
   </div>
